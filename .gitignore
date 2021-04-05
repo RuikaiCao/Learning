@@ -1,6 +1,7 @@
 # specific for this repo
 archive/*
 .ipynb_checkpoints/
+.vscode
 
 # General
 .DS_Store
